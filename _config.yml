@@ -1,6 +1,7 @@
 # Site Settings
 
 paginate:            5
+baseurl: ""
 
 # Build settings
 markdown:            kramdown
