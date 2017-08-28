@@ -9,7 +9,7 @@ disqus:
   comments: false
   disqus_shortname: 'https-lenpaul-github-io-lagrange'
 
-google-ID: 'UA-80213386-1'
+google-ID: 'UA-44147916-1'
 
 menu:
 - {name: 'About', url: 'about.html'}
@@ -17,10 +17,8 @@ menu:
 - {name: 'Contact', url: 'contact.html'}
 
 social:
-- {icon: 'github', link: 'https://www.github.com/lenpaul'}
-- {icon: 'twitter', link: 'https://twitter.com/paululele'}
-- {icon: 'instagram', link: 'https://instagram.com/paululele'}
-- {icon: 'linkedin', link: 'http://www.linkedin.com/in/lenpaul/'}
-- {icon: 'envelope', link: 'mailto:l.nguyen.paul@gmail.com'}
+- {icon: 'github', link: 'https://www.github.com/seonghuilee'}
+- {icon: 'twitter', link: 'https://twitter.com/seonghuilee'}
+- {icon: 'envelope', link: 'mailto:seonghui.lee@gmail.com'}
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
