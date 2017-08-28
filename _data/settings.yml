@@ -18,7 +18,8 @@ menu:
 
 social:
 - {icon: 'github', link: 'https://www.github.com/seonghuilee'}
+- {icon: 'university', link: 'http://ps.au.dk/en/'}
 - {icon: 'twitter', link: 'https://twitter.com/seonghuilee'}
 - {icon: 'envelope', link: 'mailto:seonghui.lee@gmail.com'}
 
-# Available social icons are powered by Font Awesome, so you can use any icon that they offer
+# Available social icons are powered by Font Awesome, so you can use any icon that they offer (http://fontawesome.io/icons/)
