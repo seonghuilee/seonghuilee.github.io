@@ -3,7 +3,7 @@
 */
 
 body {
-  font-family: "Fira Sans", "Lato", "Quattrocento Sans", "PT Serif", Georgia, "Times New Roman", serif;
+  font-family: "Lato", "Fira Sans", "Quattrocento Sans", "PT Serif", Georgia, "Times New Roman", serif;
   font-size: 15px;
   color: #515151;
   line-height: 1.75rem;
@@ -55,6 +55,7 @@ blockquote {
   padding: 0.5em 10px;
   quotes: "\201C""\201D""\2018""\2019";
 }
+/* SL
 blockquote:before {
   color: #ccc;
   content: open-quote;
@@ -63,6 +64,7 @@ blockquote:before {
   margin-right: 0.25em;
   vertical-align: -0.4em;
 }
+*/
 blockquote p {
   display: inline;
 }

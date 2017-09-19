@@ -12,7 +12,7 @@ disqus:
 google-ID: 'UA-44147916-1'
 
 menu:
-- {name: 'About', url: '..'}
+- {name: 'Home', url: '..'}
 - {name: 'Research', url: 'research.html'}
 - {name: 'Teaching', url: 'teaching.html'}
 - {name: 'Vitae', url: '../files/cvLee.pdf'}

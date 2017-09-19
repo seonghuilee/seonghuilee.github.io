@@ -1,10 +1,9 @@
 ---
 layout: page2
-title: Writing
+title: Research
 ---
-
+***
 ## Peer-reviewed publications
-
 
 [//]:<ol reversed>
 [//]:  <li>Coffee</li>
@@ -28,30 +27,40 @@ title: Writing
 
 [//]: <0. **"Party Policy Differentiation after DLP’s Entry in the Legislative Process"** (with Young-jae Jin) *Korean Journal of Legislative Studies* 22: 223-255. 2006. [In Korean]>
 
+<br>
 
+***
 ## Work in progress
-### Political knowlege 
-* **Decomposing Political Knowledge** (with Akitaka Matsuo). *Invited to revise and resubmit.* 
 
-* **Sources of Confidence in Political Knowledge and Judgment: An experimental study on the role of information accessibility and relevance.** 2017. 
+#### || Political interest and political knowlege 
 
-[//]: <> (.../files/EPSA2017Lee.pdf)
+* Decomposing Political Knowledge (with Akitaka Matsuo). *Invited to revise and resubmit.* 
 
-[//]: Multi-dimensional Policy Preferences in the 2015 UK General Election: A Conjoint Analysis (with Akitaka Matsuo) 
+* Sources of Confidence in Political Knowledge and Judgment: An experimental study on the role of information accessibility and relevance. [[Draft]](../files/EPSA2017Lee.pdf) 
 
-+ The Role of Coping Potential in Enhancing Interest: An Experimental Study of Cognitive Appraisal Theory of Political Interest
+* The Role of Coping Potential in Enhancing Interest: An Experimental Study of Cognitive Appraisal Theory of Political Interest. [[Draft]](../files/Interest2016Lee.pdf)
 
-+ Engaged: Married or Divorced? Why Changes in Marital Status Matter for Women’s Political Engagement (with Tiffany Barnes)
+* Explaining Cross-National Differences in Political Interest: The Role of Partisan and Ideological Cues (with Randy Stevenson)
+
+* The Nature and Origins of Voters’ Perceptions of the Left-Right Positions of Parties (with Randy Stevenson and Philip Santoso)
+
+* Political Information at the Border of Factual Knowledge and Subjective Beliefs (with David J. Hendry and Akitaka Matsuo)
+
+
+
+#### || Electoral participation and vote choice
+
+* Engaged: Married or Divorced? Why Changes in Marital Status Matter for Women’s Political Engagement (with Tiffany Barnes) [[Draft]](../files/ECPG2017.pdf)
+
+* Multi-dimensional Policy Preferences in the 2015 UK General Election: A Conjoint Analysis (with Akitaka Matsuo) 
+
+* Voice and Exit of the Dissatisfied Electorates in Plurality Elections: The Effects of Electoral Contexts
+
+
+#### || Parties, policy initiatives, and voter reactions
 
 + Mass Media Attention to Welfare State Reforms: Evidence from Britain (with Carsten Jensen)
 
-+ Explaining Cross-National Differences in Political Interest: The Role of Partisan and Ideological Cues (with Randy Stevenson)
-
 + Escaping From Punishment? An Analysis of the Strategic Timing of Welfare State Reforms (with Georg Wenzelburger, Carsten Jensen, and Christoph Arndt)
 
-+ Voice and Exit of the Dissatisfied Electorates in Plurality Elections: The Effects of Electoral Contexts
-
-+ Political Information at the Border of Factual Knowledge and Subjective Beliefs (with David J. Hendry and Akitaka Matsuo)
-
-+ The Nature and Origins of Voters’ Perceptions of the Left-Right Positions of Parties (with Randy Stevenson and Philip Santoso)
 
