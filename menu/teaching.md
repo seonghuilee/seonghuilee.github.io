@@ -2,6 +2,12 @@
 layout: page2
 title: Teaching
 ---
+<style>
+p.small {
+    line-height: 0.3;
+}
+</style>
+
 ***
 ## Teaching interests
 
@@ -14,7 +20,9 @@ title: Teaching
 * **Substantive**: comparative political behavior, comparative political institutions, public opinion, political psychology
 * **Methods**: survey methods and measurements, research design, experimental design, multilevel modeling
 
-
+<p class="small">
+<br>
+</p>
 ***
 ## Teaching experience
 
@@ -38,7 +46,9 @@ title: Teaching
 * Introduction to Comparative Politics
   * Teaching Assistant: Spring 2012 
 
-
+<p class="small">
+<br>
+</p>
 ***
 ## Pedagogical training
 * Completion of Teacher Training Program (adjunktpædagogikum), Center for Teaching and Learning, Aarhus University, January 2017.

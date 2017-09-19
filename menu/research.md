@@ -2,6 +2,12 @@
 layout: page2
 title: Research
 ---
+<style>
+p.small {
+    line-height: 0.5;
+}
+</style>
+
 ***
 ## Peer-reviewed publications
 
@@ -28,7 +34,9 @@ title: Research
 
 [//]: <0. **"Party Policy Differentiation after DLP’s Entry in the Legislative Process"** (with Young-jae Jin) *Korean Journal of Legislative Studies* 22: 223-255. 2006. [In Korean]>
 
+<p class="small">
 <br>
+</p>
 
 ***
 ## Work in progress
