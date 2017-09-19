@@ -14,19 +14,18 @@ title: Teaching
 * **Substantive**: comparative political behavior, comparative political institutions, public opinion, political psychology
 * **Methods**: survey methods and measurements, research design, experimental design, multilevel modeling
 
-<br> 
 
 ***
 ## Teaching experience
 
 #### || Aarhus University
 * Political Motivations, Engagement and Democracy in Comparative Perspective
-  * Instructor:Spring 2016, Spring 2018 (Graduate Level)
+  * Instructor: Spring 2016, Spring 2018 (Graduate Level)
 
 * Apples and Oranges: How to Make Valid Comparisons in Comparative Political Research
   * Instructor: Fall 2016 (Graduate Level)
 
-* Political Institutions: Western Countries, EU, and Foreign Policy, Aarhus University
+* Political Institutions: Western Countries, EU, and Foreign Policy
   * Team teaching: Spring 2016
   
 #### || University of Zurich
@@ -39,7 +38,6 @@ title: Teaching
 * Introduction to Comparative Politics
   * Teaching Assistant: Spring 2012 
 
-<br>
 
 ***
 ## Pedagogical training
