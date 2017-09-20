@@ -20,8 +20,8 @@ menu:
 #- {name: 'Contact', url: 'contact.html'}
 
 social:
-- {icon: 'github', link: 'https://www.github.com/seonghuilee'}
-- {icon: 'university', link: 'http://ps.au.dk/en/'}
+#- {icon: 'github', link: 'https://www.github.com/seonghuilee'}
+- {icon: 'university', link: 'http://pure.au.dk/portal/en/persons/id(3a41942b-2f04-4d63-9389-aa5cae084a81).html'}
 - {icon: 'twitter', link: 'https://twitter.com/seonghuilee'}
 - {icon: 'envelope', link: 'mailto:seonghui.lee@gmail.com'}
 

@@ -81,7 +81,7 @@ blockquote p {
 
 @media (max-width: 1366px) {
   .container {
-    width: 60vw;
+    width: 55vw;
   }
 }
 
@@ -100,7 +100,7 @@ blockquote p {
 .masthead {
   padding-top: 0.5rem;
   padding-bottom: 0.5rem;
-  margin-bottom: 4rem;
+  margin-bottom: 3rem;
   font-family: "Lato", "Quattrocento Sans", sans-serif;
 }
 
