@@ -2,7 +2,7 @@
 
   <title>
     {% if page.title == "Home" %}
-      {{ site.data.settings.title }} | {{ site.data.settings.tagline }}
+      {{ site.data.settings.title }} 
     {% else %}
       {{ page.title }} | {{ site.data.settings.title }}
     {% endif %}
@@ -29,7 +29,7 @@
   </script>
 
   {% include google-analytics.html %}
-  <!-- Use Atom --> 
-  {% feed_meta %} 
-  
+  <!-- Use Atom -->
+  {% feed_meta %}
+
 </head>
