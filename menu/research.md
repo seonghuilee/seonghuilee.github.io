@@ -17,12 +17,11 @@ p.small {
 [//]:  <li>Milk</li>
 [//]:</ol>
 
-0. <strong>"Risky Business? Welfare State Reforms and Government Support in Britain and Denmark"</strong> (with Carsten Jensen, Christoph Arndt, and Georg Wenzelburger). Forthcoming at <em>British Journal of Political Science.</em> [[<i class="fa fa-link" aria-hidden="true"></i> Data](http://dx.doi.org/10.7910/DVN/FDY0ZN)]
+0. **"Measuring Knowledge of Parties' Legislative Seat Shares"** (with Agustina Haime and Randy Stevenson). *Political Science Research and Methods.* 2017 (Forthcoming). [[<i class="fa fa-link" aria-hidden="true"></i> Data](http://dx.doi.org/10.7910/DVN/NQ32VR)]
 
-0. **"Measuring Knowledge of Parties' Legislative Seat Shares"** (with Agustina Haime and Randy Stevenson). Forthcoming at *Political Science Research and Methods.* [[<i class="fa fa-link" aria-hidden="true"></i> Data](http://dx.doi.org/10.7910/DVN/NQ32VR)]
+0. [**"Risky Business? Welfare State Reforms and Government Support in Britain and Denmark"**](https://doi.org/10.1017/S0007123417000382) (with Carsten Jensen, Christoph Arndt, and Georg Wenzelburger). <em>British Journal of Political Science.</em> 2017 (Forthcoming). [[<i class="fa fa-link" aria-hidden="true"></i> Data](http://dx.doi.org/10.7910/DVN/FDY0ZN)]
 
-
-0. [**“Policy Instruments and Welfare State Reform"**](http://journals.sagepub.com/doi/full/10.1177/0958928717711974) (with Carsten Jensen, Christoph Arndt, and Georg Wenzelburger). *Journal of European Social Policy.* 2017.
+0. [**“Policy Instruments and Welfare State Reform"**](http://journals.sagepub.com/doi/full/10.1177/0958928717711974) (with Carsten Jensen, Christoph Arndt, and Georg Wenzelburger). *Journal of European Social Policy.* 2017 (Forthcoming).
 
 0. [**“An Expanded Empirical Evaluation of Cross- National Comparability of Survey Measures of Political Interest Using Anchoring Vignettes: A Research Note”**](http://dx.doi.org/10.1016/j.electstud.2016.08.012) (with Nick Lin and Randy Stevenson). *Electoral Studies* 44: 423-428. 2016.
 
@@ -30,7 +29,7 @@ p.small {
 
 0. [**“Evaluating the Cross-National Comparability of Survey Measures of Political Interest Using Anchoring Vignettes”**](http://www.sciencedirect.com/science/article/pii/S0261379415000542) (with Nick Lin and Randy Stevenson). *Electoral Studies* 39: 205-218. 2015.
 
-0. [**“Party Responsiveness to the Collective Judgment of the Electorate: The Case of Presidential Popularity in Latin America”**](http://journals.sagepub.com/doi/full/10.1177/0010414013520523) *Comparative Political Studies* 47(14): 1973-1999. 2014.
+0. [**“Party Responsiveness to the Collective Judgment of the Electorate: The Case of Presidential Popularity in Latin America”**](http://journals.sagepub.com/doi/full/10.1177/0010414013520523) *Comparative Political Studies* 47(14): 1973-1999. 2014. [ [<i class="fa fa-file-pdf-o" aria-hidden="true"></i> Supplementary information](../files/CPS2014SI.pdf)]
 
 [//]: <0. **"Party Policy Differentiation after DLP’s Entry in the Legislative Process"** (with Young-jae Jin) *Korean Journal of Legislative Studies* 22: 223-255. 2006. [In Korean]>
 
