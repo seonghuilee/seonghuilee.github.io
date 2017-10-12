@@ -17,11 +17,12 @@ p.small {
 [//]:  <li>Milk</li>
 [//]:</ol>
 
-0. **"Measuring Knowledge of Parties' Legislative Seat Shares"** (with Agustina Haime and Randy Stevenson). *Political Science Research and Methods.* 2017 (Forthcoming). [[<i class="fa fa-link" aria-hidden="true"></i> Data](http://dx.doi.org/10.7910/DVN/NQ32VR)]
 
-0. [**"Risky Business? Welfare State Reforms and Government Support in Britain and Denmark"**](https://doi.org/10.1017/S0007123417000382) (with Carsten Jensen, Christoph Arndt, and Georg Wenzelburger). <em>British Journal of Political Science.</em> 2017 (Forthcoming). [[<i class="fa fa-link" aria-hidden="true"></i> Data](http://dx.doi.org/10.7910/DVN/FDY0ZN)]
+0. [**"Risky Business? Welfare State Reforms and Government Support in Britain and Denmark"**](https://doi.org/10.1017/S0007123417000382) (with Carsten Jensen, Christoph Arndt, and Georg Wenzelburger). <em>British Journal of Political Science.</em> (Online First 2017). [[<i class="fa fa-link" aria-hidden="true"></i> Data](http://dx.doi.org/10.7910/DVN/FDY0ZN)]
 
-0. [**“Policy Instruments and Welfare State Reform"**](http://journals.sagepub.com/doi/full/10.1177/0958928717711974) (with Carsten Jensen, Christoph Arndt, and Georg Wenzelburger). *Journal of European Social Policy.* 2017 (Forthcoming).
+0. [**"Measuring Knowledge of Parties' Legislative Seat Shares"**](https://doi.org/10.1017/psrm.2017.31) (with Agustina Haime and Randy Stevenson). *Political Science Research and Methods.* (Online First 2017). [[<i class="fa fa-link" aria-hidden="true"></i> Data](http://dx.doi.org/10.7910/DVN/NQ32VR)] [ [<i class="fa fa-file-pdf-o" aria-hidden="true"></i> Supplementary information](../files/PSRM2017SI.pdf)]
+
+0. [**“Policy Instruments and Welfare State Reform"**](http://journals.sagepub.com/doi/full/10.1177/0958928717711974) (with Carsten Jensen, Christoph Arndt, and Georg Wenzelburger). *Journal of European Social Policy.* (Online First 2017).
 
 0. [**“An Expanded Empirical Evaluation of Cross- National Comparability of Survey Measures of Political Interest Using Anchoring Vignettes: A Research Note”**](http://dx.doi.org/10.1016/j.electstud.2016.08.012) (with Nick Lin and Randy Stevenson). *Electoral Studies* 44: 423-428. 2016.
 
