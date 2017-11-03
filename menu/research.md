@@ -44,7 +44,7 @@ p.small {
 
 #### || Political interest and political knowlege 
 
-* Decomposing Political Knowledge (with Akitaka Matsuo). *Invited to revise and resubmit.* 
+* Decomposing Political Knowledge (with Akitaka Matsuo). 
 
 * Sources of Confidence in Political Knowledge and Judgment: An experimental study on the role of information accessibility and relevance. [[<i class="fa fa-link" aria-hidden="true"></i> Draft]](../files/EPSA2017Lee.pdf) 
 
@@ -71,9 +71,9 @@ p.small {
 
 #### || Parties, policy initiatives, and voter reactions
 
-+ Mass Media Attention to Welfare State Reforms: Evidence from Britain (with Carsten Jensen)
++ Mass Media Attention to Welfare State Reforms: Evidence from Britain (with Carsten Jensen) 
 
-+ Escaping From Punishment? An Analysis of the Strategic Timing of Welfare State Reforms (with Georg Wenzelburger, Carsten Jensen, and Christoph Arndt)
++ The Magic of Nine Months: How Governments Time Welfare State Reforms Strategically (with Georg Wenzelburger, Carsten Jensen, and Christoph Arndt)
 
 + Belief Strength and Updating Policy Positions (with Carsten Jensen)
 
