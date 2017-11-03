@@ -71,7 +71,7 @@ p.small {
 
 #### || Parties, policy initiatives, and voter reactions
 
-+ Mass Media Attention to Welfare State Reforms: Evidence from Britain (with Carsten Jensen) 
++ Mass Media Attention to Welfare State Reforms: Evidence from Britain, 1996-2014 (with Carsten Jensen) 
 
 + The Magic of Nine Months: How Governments Time Welfare State Reforms Strategically (with Georg Wenzelburger, Carsten Jensen, and Christoph Arndt)
 
