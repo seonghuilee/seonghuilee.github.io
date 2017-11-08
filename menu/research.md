@@ -56,8 +56,6 @@ p.small {
 
 * Political Information at the Border of Factual Knowledge and Subjective Beliefs (with David J. Hendry and Akitaka Matsuo)
 
-
-
 #### || Electoral participation and vote choice
 
 * Multi-dimensional Policy Preferences in the 2015 UK General Election: A Conjoint Analysis (with Akitaka Matsuo) 
@@ -73,7 +71,9 @@ p.small {
 
 + Mass Media Attention to Welfare State Reforms: Evidence from Britain, 1996-2014 (with Carsten Jensen) 
 
-+ The Magic of Nine Months: How Governments Time Welfare State Reforms Strategically (with Georg Wenzelburger, Carsten Jensen, and Christoph Arndt)
++ Escaping From Punishment? An Analysis of the Strategic Timing of Welfare State Reforms (with Georg Wenzelburger, Carsten Jensen, and Christoph Arndt)
+
+[//]: The Magic of Nine Months: How Governments Strategically Time Welfare State Reforms
 
 + Belief Strength and Updating Policy Positions (with Carsten Jensen)
 
