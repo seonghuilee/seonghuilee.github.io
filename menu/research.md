@@ -66,6 +66,8 @@ p.small {
 
 * Voice and Exit of the Dissatisfied Electorates in Plurality Elections: The Effects of Electoral Contexts
 
+* Belief Strength and Updating Policy Positions (with Carsten Jensen)
+
 
 #### || Parties, policy initiatives, and voter reactions
 
@@ -75,5 +77,4 @@ p.small {
 
 [//]: The Magic of Nine Months: How Governments Strategically Time Welfare State Reforms
 
-+ Belief Strength and Updating Policy Positions (with Carsten Jensen)
 
