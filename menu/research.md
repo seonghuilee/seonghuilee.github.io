@@ -19,6 +19,8 @@ p.small {
 
 [//]: Some Markdown text with <span style="color:blue">some *blue* text</span>.
 
+0. **Decomposing Political Knowledge: What Is Confidence in Knowledge and Why It Matters** (with Akitaka Matsuo). Forthcoming at *Electoral Studies*.
+
 0. [**"Risky Business? Welfare State Reforms and Government Support in Britain and Denmark"**](https://doi.org/10.1017/S0007123417000382) (with Carsten Jensen, Christoph Arndt, and Georg Wenzelburger). <em>British Journal of Political Science.</em> (Online First 2017). [[<i class="fa fa-link" aria-hidden="true"></i> Data](http://dx.doi.org/10.7910/DVN/FDY0ZN)]
 
 0. [**"Measuring Knowledge of Parties' Legislative Seat Shares"**](https://doi.org/10.1017/psrm.2017.31) (with Agustina Haime and Randy Stevenson). *Political Science Research and Methods.* (Online First 2017). [[<i class="fa fa-link" aria-hidden="true"></i> Data](http://dx.doi.org/10.7910/DVN/NQ32VR)] [ [<i class="fa fa-file-pdf-o" aria-hidden="true"></i> Online Appendix](../files/PSRM2017SI.pdf)]
@@ -43,8 +45,6 @@ p.small {
 ## Work in progress
 
 #### || Political interest and political knowlege 
-
-* Decomposing Political Knowledge (with Akitaka Matsuo). 
 
 * Sources of Confidence in Political Knowledge and Judgment: An experimental study on the role of information accessibility and relevance. [[<i class="fa fa-link" aria-hidden="true"></i> Draft]](../files/EPSA2017Lee.pdf) 
 
