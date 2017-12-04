@@ -11,7 +11,7 @@ p.small {
 ***
 ## Guessing game
 
-How good are you at guessing? If you are looking for something to kill time, try this [<i class="fa fa-play-circle" aria-hidden="true"></i> guessing game](https://riceuniversity.co1.qualtrics.com/SE/?SID=SV_72R8ORYa6MDgkqF). It will take about 15 minutes to complete. 
+How good are you at guessing? If you are looking for something to kill time, try this [<i class="fa fa-play-circle" aria-hidden="true"></i> guessing game](https://aarhus.eu.qualtrics.com/jfe/form/SV_0IzEpHvaGV8dKlf). It will take about 15 minutes to complete. 
 
 <p class="small">
 <br>
