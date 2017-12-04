@@ -19,7 +19,7 @@ p.small {
 
 [//]: Some Markdown text with <span style="color:blue">some *blue* text</span>.
 
-0. **Decomposing Political Knowledge: What Is Confidence in Knowledge and Why It Matters** (with Akitaka Matsuo). Forthcoming at *Electoral Studies*.
+0. [**Decomposing Political Knowledge: What Is Confidence in Knowledge and Why It Matters**](https://doi.org/10.1016/j.electstud.2017.11.005) (with Akitaka Matsuo). *Electoral Studies* 51: 1-13. 2018. [ [<i class="fa fa-file-pdf-o" aria-hidden="true"></i> Online Appendix](../files/ES2018SI.pdf)]
 
 0. [**"Risky Business? Welfare State Reforms and Government Support in Britain and Denmark"**](https://doi.org/10.1017/S0007123417000382) (with Carsten Jensen, Christoph Arndt, and Georg Wenzelburger). <em>British Journal of Political Science.</em> (Online First 2017). [[<i class="fa fa-link" aria-hidden="true"></i> Data](http://dx.doi.org/10.7910/DVN/FDY0ZN)]
 
