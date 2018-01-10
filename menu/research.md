@@ -46,9 +46,13 @@ p.small {
 
 #### || Political interest and political knowlege 
 
-* Sources of Confidence in Political Knowledge and Judgment: An experimental study on the role of information accessibility and relevance. [[<i class="fa fa-link" aria-hidden="true"></i> Draft]](../files/EPSA2017Lee.pdf) 
+* Sources of Confidence in Political Knowledge and Judgment: An experimental study on the role of information accessibility and relevance. 
 
-* The Role of Coping Potential in Enhancing Interest: An Experimental Study of Cognitive Appraisal Theory of Political Interest. [[<i class="fa fa-link" aria-hidden="true"></i> Draft]](../files/Interest2016Lee.pdf)
+[//]: [[<i class="fa fa-link" aria-hidden="true"></i> Draft]](../files/EPSA2017Lee.pdf) 
+
+* The Role of Coping Potential in Enhancing Interest: An Experimental Study of Cognitive Appraisal Theory of Political Interest.
+
+[//]: [[<i class="fa fa-link" aria-hidden="true"></i> Draft]](../files/Interest2016Lee.pdf)
 
 * Explaining Cross-National Differences in Political Interest: The Role of Partisan and Ideological Cues (with Randy Stevenson)
 
