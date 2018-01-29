@@ -21,7 +21,7 @@ p.small {
 
 0. [**"Decomposing Political Knowledge: What Is Confidence in Knowledge and Why It Matters"**](https://doi.org/10.1016/j.electstud.2017.11.005) (with Akitaka Matsuo). *Electoral Studies* 51: 1-13. 2018. [ [<i class="fa fa-file-pdf-o" aria-hidden="true"></i> Online Appendix](../files/ES2018SI.pdf)]
 
-0. [**"Risky Business? Welfare State Reforms and Government Support in Britain and Denmark"**](https://doi.org/10.1017/S0007123417000382) (with Carsten Jensen, Christoph Arndt, and Georg Wenzelburger). <em>British Journal of Political Science.</em> (Online First 2017). [[<i class="fa fa-link" aria-hidden="true"></i> Data](http://dx.doi.org/10.7910/DVN/FDY0ZN)]
+0. [**"Risky Business? Welfare State Reforms and Government Support in Britain and Denmark"**](https://doi.org/10.1017/S0007123417000382) (with Carsten Jensen, Christoph Arndt, and Georg Wenzelburger). <em>British Journal of Political Science.</em> (Online First 2017). [[<i class="fa fa-link" aria-hidden="true"></i> Data](http://dx.doi.org/10.7910/DVN/FDY0ZN)] [ [<i class="fa fa-file-pdf-o" aria-hidden="true"></i> Online Appendix](../files/BJPS2017SI.pdf)]
 
 0. [**"Measuring Knowledge of Parties' Legislative Seat Shares"**](https://doi.org/10.1017/psrm.2017.31) (with Agustina Haime and Randy Stevenson). *Political Science Research and Methods.* (Online First 2017). [[<i class="fa fa-link" aria-hidden="true"></i> Data](http://dx.doi.org/10.7910/DVN/NQ32VR)] [ [<i class="fa fa-file-pdf-o" aria-hidden="true"></i> Online Appendix](../files/PSRM2017SI.pdf)]
 
@@ -70,7 +70,7 @@ p.small {
 
 * Voice and Exit of the Dissatisfied Electorates in Plurality Elections: The Effects of Electoral Contexts
 
-* Belief Strength and Updating Policy Positions (with Carsten Jensen)
+* Belief Strength and Updating Party Policy Positions (with Carsten Jensen)
 
 
 #### || Parties, policy initiatives, and voter reactions
