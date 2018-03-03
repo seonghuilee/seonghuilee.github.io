@@ -6,7 +6,27 @@ title: Research
 p.small {
     line-height: 0.5;
 }
+.abstract {
+  display: none;
+  padding: 15px 25px;
+  margin: 0 5px 10px 5px;
+  background-color: #EEE;
+}
+
+div .p {
+    padding: 5px 0 10px 0;
+
+}
+.cl{
+    font-weight: bolder;
+}
+
+.place_holder {
+    height: 10px;
+}
 </style>
+
+
 
 ***
 ## Peer-reviewed publications
@@ -19,9 +39,15 @@ p.small {
 
 [//]: Some Markdown text with <span style="color:blue">some *blue* text</span>.
 
-0. [**"Decomposing Political Knowledge: What Is Confidence in Knowledge and Why It Matters"**](https://doi.org/10.1016/j.electstud.2017.11.005) (with Akitaka Matsuo). *Electoral Studies* 51: 1-13. 2018. [ [<i class="fa fa-file-pdf-o" aria-hidden="true"></i> Online Appendix](../files/ES2018SI.pdf)]
+0. [**"Decomposing Political Knowledge: What Is Confidence in Knowledge and Why It Matters"**](https://doi.org/10.1016/j.electstud.2017.11.005) (with Akitaka Matsuo). *Electoral Studies* 51: 1-13. 2018. [ [<i class="fa fa-file-pdf-o" aria-hidden="true"></i> Online Appendix](../files/ES2018SI.pdf)] <a class='cl'>[abstract]</a>
+   <p class="abstract">
+   While political knowledge has been conceptually defined with two constructs – accuracy and confidence in factual information – conventional measurement of political knowledge has relied heavily on retrieval accuracy. Without measuring confidence-in-knowledge, it is not possible to rigorously identify different types of political informedness, such as misinformedness and uninformedness. This article theoretically explores the two constructs of knowledge and argues that each construct has unique antecedents and behavioral consequences. We suggest a survey instrument for confidence-in-knowledge and introduce a method to estimate latent traits of retrieval accuracy and confidence separately. Using our original survey that includes the measure of confidence-in-knowledge, we find that misinformed citizens are as engaged in politics as the well-informed, but their active involvement does not guarantee informed political choices. Our findings warrant further theoretical and empirical exploration of confidence in political knowledge.
+   </p>
 
-0. [**"Risky Business? Welfare State Reforms and Government Support in Britain and Denmark"**](https://doi.org/10.1017/S0007123417000382) (with Carsten Jensen, Christoph Arndt, and Georg Wenzelburger). <em>British Journal of Political Science.</em> (Online First 2017). [[<i class="fa fa-link" aria-hidden="true"></i> Data](http://dx.doi.org/10.7910/DVN/FDY0ZN)] [ [<i class="fa fa-file-pdf-o" aria-hidden="true"></i> Online Appendix](../files/BJPS2017SI.pdf)]
+0. [**"Risky Business? Welfare State Reforms and Government Support in Britain and Denmark"**](https://doi.org/10.1017/S0007123417000382) (with Carsten Jensen, Christoph Arndt, and Georg Wenzelburger). <em>British Journal of Political Science.</em> (Online First 2017). [[<i class="fa fa-link" aria-hidden="true"></i> Data](http://dx.doi.org/10.7910/DVN/FDY0ZN)] [ [<i class="fa fa-file-pdf-o" aria-hidden="true"></i> Online Appendix](../files/BJPS2017SI.pdf)] <a class='cl'>[abstract]</a>
+   <p class="abstract">
+   Are welfare state reforms electorally dangerous for governments? Political scientists have only recently begun to study this seemingly simple question, and existing work still suffers from two shortcomings. First, it has never tested the reform–vote link with data on actual legislative decisions for enough points in time to allow robust statistical tests. Secondly, it has failed to take into account the many expansionary reforms that have occurred in recent decades. Expansions often happen in the same years as cutbacks. By focusing only on cutbacks, estimates of the effects of reforms on government popularity become biased. This article addresses both shortcomings. The results show that voters punish governments for cutbacks, but also reward them for expansions, making so-called compensation, a viable blame-avoidance strategy. The study also finds that the size of punishments and rewards is roughly the same, suggesting that voters’ well-documented negativity bias does not directly translate into electoral behavior.
+   </p>
 
 0. [**"Measuring Knowledge of Parties' Legislative Seat Shares"**](https://doi.org/10.1017/psrm.2017.31) (with Agustina Haime and Randy Stevenson). *Political Science Research and Methods.* (Online First 2017). [[<i class="fa fa-link" aria-hidden="true"></i> Data](http://dx.doi.org/10.7910/DVN/NQ32VR)] [ [<i class="fa fa-file-pdf-o" aria-hidden="true"></i> Online Appendix](../files/PSRM2017SI.pdf)]
 
@@ -44,11 +70,11 @@ p.small {
 ***
 ## Work in progress
 
-#### || Political interest and political knowlege 
+#### || Political interest and political knowlege
 
-* Sources of Confidence in Political Knowledge and Judgment: An experimental study on the role of information accessibility and relevance. 
+* Sources of Confidence in Political Knowledge and Judgment: An experimental study on the role of information accessibility and relevance.
 
-[//]: [[<i class="fa fa-link" aria-hidden="true"></i> Draft]](../files/EPSA2017Lee.pdf) 
+[//]: [[<i class="fa fa-link" aria-hidden="true"></i> Draft]](../files/EPSA2017Lee.pdf)
 
 * The Role of Coping Potential in Enhancing Interest: An Experimental Study of Cognitive Appraisal Theory of Political Interest.
 
@@ -62,9 +88,9 @@ p.small {
 
 #### || Electoral participation and vote choice
 
-* Multi-dimensional Policy Preferences in the 2015 UK General Election: A Conjoint Analysis (with Akitaka Matsuo) 
+* Multi-dimensional Policy Preferences in the 2015 UK General Election: A Conjoint Analysis (with Akitaka Matsuo)
 
-* Engaged: Married or Divorced? Why Changes in Marital Status Matter for Women’s Political Engagement (with Tiffany Barnes) 
+* Engaged: Married or Divorced? Why Changes in Marital Status Matter for Women’s Political Engagement (with Tiffany Barnes)
 
 [//]: [[<i class="fa fa-link" aria-hidden="true"></i> Draft]](../files/ECPG2017.pdf)
 
@@ -75,10 +101,20 @@ p.small {
 
 #### || Parties, policy initiatives, and voter reactions
 
-+ Mass Media Attention to Welfare State Reforms: Evidence from Britain, 1996-2014 (with Carsten Jensen) 
++ Mass Media Attention to Welfare State Reforms: Evidence from Britain, 1996-2014 (with Carsten Jensen)
 
 + Escaping From Punishment? An Analysis of the Strategic Timing of Welfare State Reforms (with Georg Wenzelburger, Carsten Jensen, and Christoph Arndt)
 
 [//]: The Magic of Nine Months: How Governments Strategically Time Welfare State Reforms
 
 
+<script src="https://code.jquery.com/jquery-latest.min.js"
+        type="text/javascript"></script>
+
+<script>
+$(document).ready(function(){
+  $(document).on('click','.cl', function() {
+    $(this).parent().children(".abstract").fadeToggle();
+  });
+});
+</script>
