@@ -38,6 +38,7 @@ div .p {
 [//]:</ol>
 
 [//]: Some Markdown text with <span style="color:blue">some *blue* text</span>.
+0. [**"Mass Media Attention to Welfare State Reforms: Evidence from Britain 1996-2014"**] (with Carsten Jensen). *West European Politics* (Forthcoming).
 
 0. [**"Decomposing Political Knowledge: What Is Confidence in Knowledge and Why It Matters"**](https://doi.org/10.1016/j.electstud.2017.11.005) (with Akitaka Matsuo). *Electoral Studies* 51: 1-13. 2018. [ [<i class="fa fa-file-pdf-o" aria-hidden="true"></i> Online Appendix](../files/ES2018SI.pdf)] [<a class='cl'>Abstract</a>]
    <p class="abstract">
@@ -109,8 +110,6 @@ Studies on retrospective voting argue that voters under presidentialism tend to 
 
 
 #### || Parties, policy initiatives, and voter reactions
-
-+ Mass Media Attention to Welfare State Reforms: Evidence from Britain, 1996-2014 (with Carsten Jensen)
 
 + Escaping From Punishment? An Analysis of the Strategic Timing of Welfare State Reforms (with Georg Wenzelburger, Carsten Jensen, and Christoph Arndt)
 
