@@ -44,22 +44,22 @@ div .p {
 One of the core questions facing political scientists is how politicians are able to implement cutbacks without suffering electoral backlash. A possible explanation might be that the mass media refrain from reporting on welfare state reforms in a consistent way. In order to explore this, two unique datasets have been collected: one contains information on all policy reforms of British old age pensions and unemployment protection from 1996 to 2014, and the other contains hand- coded media articles that allow the tracking on a monthly basis of what reforms are picked up. It is found that the mass media report on cutbacks, but not on expansions, and that they prioritise easy-to-understand cutbacks over cutbacks that are more technical in nature.
    </p> <p> </p>
    
+0. [**"Risky Business? Welfare State Reforms and Government Support in Britain and Denmark"**](https://doi.org/10.1017/S0007123417000382) (with Carsten Jensen, Christoph Arndt, and Georg Wenzelburger). *British Journal of Political Science.* (Forthcoming). [[<i class="fa fa-link" aria-hidden="true"></i> Data](http://dx.doi.org/10.7910/DVN/FDY0ZN)] [ [<i class="fa fa-file-pdf-o" aria-hidden="true"></i> Online Appendix](../files/BJPS2017SI.pdf)] [<a class='cl'>Abstract</a>]
+   <p class="abstract">
+   Are welfare state reforms electorally dangerous for governments? Political scientists have only recently begun to study this seemingly simple question, and existing work still suffers from two shortcomings. First, it has never tested the reform–vote link with data on actual legislative decisions for enough points in time to allow robust statistical tests. Secondly, it has failed to take into account the many expansionary reforms that have occurred in recent decades. Expansions often happen in the same years as cutbacks. By focusing only on cutbacks, estimates of the effects of reforms on government popularity become biased. This article addresses both shortcomings. The results show that voters punish governments for cutbacks, but also reward them for expansions, making so-called compensation, a viable blame-avoidance strategy. The study also finds that the size of punishments and rewards is roughly the same, suggesting that voters’ well-documented negativity bias does not directly translate into electoral behavior.
+   </p> <p> </p>
+
+0. [**"Measuring Knowledge of Parties' Legislative Seat Shares"**](https://doi.org/10.1017/psrm.2017.31) (with Agustina Haime and Randy Stevenson). *Political Science Research and Methods.* (Forthcoming). [[<i class="fa fa-link" aria-hidden="true"></i> Data](http://dx.doi.org/10.7910/DVN/NQ32VR)] [ [<i class="fa fa-file-pdf-o" aria-hidden="true"></i> Online Appendix](../files/PSRM2017SI.pdf)] [<a class='cl'>Abstract</a>]
+   <p class="abstract">
+   We use two original surveys (including survey experiments) conducted the week before the 2015 elections in the Britain and Denmark to explore the best method for measuring individuals’ knowledge of the partisan distribution of legislative seats in multi-party democracies. The complete lack of such questions in the corpus of survey research on multi-party democracies is a testament to the skepticism that many survey researchers have about the feasibility of such complex questions. However, our analysis, which is the first empirical test of this skepticism, reveals little evidence of respondents’ frustration or high levels of non-cooperation with these questions. Additionally, our survey experiments, which examine the usefulness of different question formats, make it clear that such questions should be framed in terms of the numbers of seats each party holds rather than shares or percentages of seats.
+   </p> <p> </p>
+
 0. [**"Decomposing Political Knowledge: What Is Confidence in Knowledge and Why It Matters"**](https://doi.org/10.1016/j.electstud.2017.11.005) (with Akitaka Matsuo). *Electoral Studies* 51: 1-13. 2018. [ [<i class="fa fa-file-pdf-o" aria-hidden="true"></i> Online Appendix](../files/ES2018SI.pdf)] [<a class='cl'>Abstract</a>]
    <p class="abstract">
    While political knowledge has been conceptually defined with two constructs – accuracy and confidence in factual information – conventional measurement of political knowledge has relied heavily on retrieval accuracy. Without measuring confidence-in-knowledge, it is not possible to rigorously identify different types of political informedness, such as misinformedness and uninformedness. This article theoretically explores the two constructs of knowledge and argues that each construct has unique antecedents and behavioral consequences. We suggest a survey instrument for confidence-in-knowledge and introduce a method to estimate latent traits of retrieval accuracy and confidence separately. Using our original survey that includes the measure of confidence-in-knowledge, we find that misinformed citizens are as engaged in politics as the well-informed, but their active involvement does not guarantee informed political choices. Our findings warrant further theoretical and empirical exploration of confidence in political knowledge.
    </p> <p> </p>
 
-0. [**"Risky Business? Welfare State Reforms and Government Support in Britain and Denmark"**](https://doi.org/10.1017/S0007123417000382) (with Carsten Jensen, Christoph Arndt, and Georg Wenzelburger). <em>British Journal of Political Science.</em> (Online First 2017). [[<i class="fa fa-link" aria-hidden="true"></i> Data](http://dx.doi.org/10.7910/DVN/FDY0ZN)] [ [<i class="fa fa-file-pdf-o" aria-hidden="true"></i> Online Appendix](../files/BJPS2017SI.pdf)] [<a class='cl'>Abstract</a>]
-   <p class="abstract">
-   Are welfare state reforms electorally dangerous for governments? Political scientists have only recently begun to study this seemingly simple question, and existing work still suffers from two shortcomings. First, it has never tested the reform–vote link with data on actual legislative decisions for enough points in time to allow robust statistical tests. Secondly, it has failed to take into account the many expansionary reforms that have occurred in recent decades. Expansions often happen in the same years as cutbacks. By focusing only on cutbacks, estimates of the effects of reforms on government popularity become biased. This article addresses both shortcomings. The results show that voters punish governments for cutbacks, but also reward them for expansions, making so-called compensation, a viable blame-avoidance strategy. The study also finds that the size of punishments and rewards is roughly the same, suggesting that voters’ well-documented negativity bias does not directly translate into electoral behavior.
-   </p> <p> </p>
-
-0. [**"Measuring Knowledge of Parties' Legislative Seat Shares"**](https://doi.org/10.1017/psrm.2017.31) (with Agustina Haime and Randy Stevenson). *Political Science Research and Methods.* (Online First 2017). [[<i class="fa fa-link" aria-hidden="true"></i> Data](http://dx.doi.org/10.7910/DVN/NQ32VR)] [ [<i class="fa fa-file-pdf-o" aria-hidden="true"></i> Online Appendix](../files/PSRM2017SI.pdf)] [<a class='cl'>Abstract</a>]
-   <p class="abstract">
-   We use two original surveys (including survey experiments) conducted the week before the 2015 elections in the Britain and Denmark to explore the best method for measuring individuals’ knowledge of the partisan distribution of legislative seats in multi-party democracies. The complete lack of such questions in the corpus of survey research on multi-party democracies is a testament to the skepticism that many survey researchers have about the feasibility of such complex questions. However, our analysis, which is the first empirical test of this skepticism, reveals little evidence of respondents’ frustration or high levels of non-cooperation with these questions. Additionally, our survey experiments, which examine the usefulness of different question formats, make it clear that such questions should be framed in terms of the numbers of seats each party holds rather than shares or percentages of seats.
-   </p> <p> </p>
-
-0. [**“Policy Instruments and Welfare State Reform"**](http://journals.sagepub.com/doi/full/10.1177/0958928717711974) (with Carsten Jensen, Christoph Arndt, and Georg Wenzelburger). *Journal of European Social Policy.* (Online First 2017). [<a class='cl'>Abstract</a>]
+0. [**“Policy Instruments and Welfare State Reform"**](http://journals.sagepub.com/doi/full/10.1177/0958928717711974) (with Carsten Jensen, Christoph Arndt, and Georg Wenzelburger). *Journal of European Social Policy* 28(2): 161-176. 2018. [<a class='cl'>Abstract</a>]
    <p class="abstract">
    A core, but so far untested, proposition of the new politics perspective, originally introduced by Paul Pierson, is that welfare state cutbacks will be implemented using so-called ‘invisible’ policy instruments, for example, a change in indexation rules. Expansion should, by implication, mainly happen using ‘visible’ policy instruments, for example, a change in nominal benefits. We have coded 1030 legislative reforms of old-age pensions and unemployment protection in Britain, Denmark, Finland and Germany from 1974 to 2014. With this unique data at hand, we find substantial support for this crucial new politics proposition.</p> <p> </p>  
 
@@ -96,6 +96,8 @@ Studies on retrospective voting argue that voters under presidentialism tend to 
 
 + Escaping From Punishment? An Analysis of the Strategic Timing of Welfare State Reforms (with Georg Wenzelburger, Carsten Jensen, and Christoph Arndt)
 
+* Belief Strength and Updating Party Policy Positions (with Carsten Jensen)
+
 [//]: Political interest and political knowlege
 
 * Sources of Confidence in Political Knowledge and Judgment: An experimental study on the role of information accessibility and relevance.
@@ -108,9 +110,11 @@ Studies on retrospective voting argue that voters under presidentialism tend to 
 
 * Explaining Cross-National Differences in Political Interest: The Role of Partisan and Ideological Cues (with Randy Stevenson)
 
-* The Nature and Origins of Voters’ Perceptions of the Left-Right Positions of Parties (with Randy Stevenson and Philip Santoso)
+* The Nature and Sources of Voters’ Beliefs about the Left-Right Positions of Political Parties (with Randy Stevenson and Philip Santoso)
 
-* Political Information at the Border of Factual Knowledge and Subjective Beliefs (with David J. Hendry and Akitaka Matsuo)
+* Paths to False Beliefs: Ignorance, Partisan Motivation, and Conspiracy Mentality (with David J. Hendry and Akitaka Matsuo)
+
+* Decomposing Support for the Welfare State (with Anthony Kevins)
 
 [//]: Electoral participation and vote choice
 
@@ -119,8 +123,6 @@ Studies on retrospective voting argue that voters under presidentialism tend to 
 [//]: [[<i class="fa fa-link" aria-hidden="true"></i> Draft]](../files/ECPG2017.pdf)
 
 [//]: Voice and Exit of the Dissatisfied Electorates in Plurality Elections: The Effects of Electoral Contexts
-
-* Belief Strength and Updating Party Policy Positions (with Carsten Jensen)
 
 [//]: Parties, policy initiatives, and voter reactions
 
