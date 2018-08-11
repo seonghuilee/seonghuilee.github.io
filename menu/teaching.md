@@ -25,26 +25,15 @@ p.small {
 </p>
 ***
 ## Teaching experience
+* Public Opinion and Political Behaviour (Essex, G; F2018/S2019)
 
-#### || Aarhus University
-* Political Motivations, Engagement and Democracy in Comparative Perspective
-  * Instructor: Spring 2016, Spring 2018 (Graduate Level)
+* Political Motivations, Engagement and Democracy in Comparative Perspective (Aarhus, G; S2016)
 
-* Apples and Oranges: How to Make Valid Comparisons in Comparative Political Research
-  * Instructor: Fall 2016 (Graduate Level)
+* Apples and Oranges: How to Make Valid Comparisons in Comparative Political Research (Aarhus, G; F2016)
 
-* Political Institutions: Western Countries, EU, and Foreign Policy
-  * Team teaching: Spring 2016
+* Political Institutions: Western Countries, EU, and Foreign Policy (Aarhus, UG; S2016)
   
-#### || University of Zurich
-* Introduction to American Politics
-  * Co-Teaching/ Teaching Assistant: Fall 2014
-
-#### || Rice University
-* American Government and Politics
-  * Teaching Assistant: Spring 2013, Fall 2012, Spring 2010, Fall 2010 
-* Introduction to Comparative Politics
-  * Teaching Assistant: Spring 2012 
+* Introduction to American Politics (Zurich, UG; F2014)
 
 <p class="small">
 <br>

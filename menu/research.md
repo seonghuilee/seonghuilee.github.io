@@ -39,6 +39,12 @@ div .p {
 
 [//]: Some Markdown text with <span style="color:blue">some *blue* text</span>.
 
+
+0. [**"Multi-dimensional Policy Preferences in the 2015 UK General Election: A Conjoint Analysis"**](https://doi.org/10.1016/j.electstud.2018.07.005) (with Akitaka Matsuo). *Electoral Studies* (Forthcomig). 
+[ [<i class="fa fa-file-pdf-o" aria-hidden="true"></i> Online Appendix](../files/ES2018SI_conjoint.pdf)] [<a class='cl'>Abstract</a>]
+   <p class="abstract">
+This research explores voter preferences in the multi-dimensional policy space of the 2015 UK general election, as well as the influence of those preferences on vote choice. In our original pre-election survey, we apply a conjoint experimental design where we use actual party manifestos to examine voters' policy preferences across five main policy domains. This design allows us to both identify voters' sincere preferences, as estimated by their responses to hypothetical policy packages, and to reveal the influence of these preferences on voter support in the actual election. Our analysis reveals a considerable level of congruence between voters' underlying policy preferences and their vote choice in the 2015 election. Our results also speak to the previous literature on policy preferences and vote choice by demonstrating that voters not only weigh the importance of particular policy domains differently, but also have clear preferences regarding specific policy positions in a given domain, which eventually influence their support for a party in the election. </p> <p> </p>
+  
 0. [**"Mass Media Attention to Welfare State Reforms: Evidence from Britain 1996-2014"**](https://doi.org/10.1080/01402382.2018.1466246) (with Carsten Jensen). *West European Politics* (Forthcoming). [<a class='cl'>Abstract</a>]
    <p class="abstract">
 One of the core questions facing political scientists is how politicians are able to implement cutbacks without suffering electoral backlash. A possible explanation might be that the mass media refrain from reporting on welfare state reforms in a consistent way. In order to explore this, two unique datasets have been collected: one contains information on all policy reforms of British old age pensions and unemployment protection from 1996 to 2014, and the other contains hand- coded media articles that allow the tracking on a monthly basis of what reforms are picked up. It is found that the mass media report on cutbacks, but not on expansions, and that they prioritise easy-to-understand cutbacks over cutbacks that are more technical in nature.
@@ -92,7 +98,6 @@ Studies on retrospective voting argue that voters under presidentialism tend to 
 ***
 ## Work in progress
 
-+ Multi-dimensional Policy Preferences in the 2015 UK General Election: A Conjoint Analysis (with Akitaka Matsuo)
 
 + Escaping From Punishment? An Analysis of the Strategic Timing of Welfare State Reforms (with Georg Wenzelburger, Carsten Jensen, and Christoph Arndt)
 
