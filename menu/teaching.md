@@ -25,11 +25,11 @@ p.small {
 </p>
 ***
 ## Teaching experience
-* Public Opinion and Political Behaviour (Essex, G; F2018/S2019)
+* Public Opinion and Political Behaviour (Essex, PG; F2018/S2019)
 
-* Political Motivations, Engagement and Democracy in Comparative Perspective (Aarhus, G; S2016)
+* Political Motivations, Engagement and Democracy in Comparative Perspective (Aarhus, PG; S2016)
 
-* Apples and Oranges: How to Make Valid Comparisons in Comparative Political Research (Aarhus, G; F2016)
+* Apples and Oranges: How to Make Valid Comparisons in Comparative Political Research (Aarhus, PG; F2016)
 
 * Political Institutions: Western Countries, EU, and Foreign Policy (Aarhus, UG; S2016)
   

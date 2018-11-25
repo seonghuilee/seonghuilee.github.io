@@ -16,7 +16,7 @@ menu:
 - {name: 'Research', url: 'research.html'}
 - {name: 'Teaching', url: 'teaching.html'}
 - {name: 'Vitae', url: '../files/cvLee.pdf'}
-- {name: 'Links', url: 'links.html'}
+#- {name: 'Links', url: 'links.html'}
 #- {name: 'Contact', url: 'contact.html'}
 
 social:

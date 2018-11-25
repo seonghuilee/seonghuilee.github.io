@@ -39,17 +39,16 @@ div .p {
 
 [//]: Some Markdown text with <span style="color:blue">some *blue* text</span>.
 
-
-0. [**"Multi-dimensional Policy Preferences in the 2015 UK General Election: A Conjoint Analysis"**](https://doi.org/10.1016/j.electstud.2018.07.005) (with Akitaka Matsuo). *Electoral Studies* (Forthcomig). 
-[ [<i class="fa fa-file-pdf-o" aria-hidden="true"></i> Online Appendix](../files/ES2018SI_conjoint.pdf)] [<a class='cl'>Abstract</a>]
-   <p class="abstract">
-This research explores voter preferences in the multi-dimensional policy space of the 2015 UK general election, as well as the influence of those preferences on vote choice. In our original pre-election survey, we apply a conjoint experimental design where we use actual party manifestos to examine voters' policy preferences across five main policy domains. This design allows us to both identify voters' sincere preferences, as estimated by their responses to hypothetical policy packages, and to reveal the influence of these preferences on voter support in the actual election. Our analysis reveals a considerable level of congruence between voters' underlying policy preferences and their vote choice in the 2015 election. Our results also speak to the previous literature on policy preferences and vote choice by demonstrating that voters not only weigh the importance of particular policy domains differently, but also have clear preferences regarding specific policy positions in a given domain, which eventually influence their support for a party in the election. </p> <p> </p>
-  
-0. [**"Mass Media Attention to Welfare State Reforms: Evidence from Britain 1996-2014"**](https://doi.org/10.1080/01402382.2018.1466246) (with Carsten Jensen). *West European Politics* (Forthcoming). [<a class='cl'>Abstract</a>]
+0. [**"Mass Media Attention to Welfare State Reforms: Evidence from Britain 1996-2014"**](https://doi.org/10.1080/01402382.2018.1466246) (with Carsten Jensen). *West European Politics* 42(1): 113-132, 2019. [<a class='cl'>Abstract</a>]
    <p class="abstract">
 One of the core questions facing political scientists is how politicians are able to implement cutbacks without suffering electoral backlash. A possible explanation might be that the mass media refrain from reporting on welfare state reforms in a consistent way. In order to explore this, two unique datasets have been collected: one contains information on all policy reforms of British old age pensions and unemployment protection from 1996 to 2014, and the other contains hand- coded media articles that allow the tracking on a monthly basis of what reforms are picked up. It is found that the mass media report on cutbacks, but not on expansions, and that they prioritise easy-to-understand cutbacks over cutbacks that are more technical in nature.
    </p> <p> </p>
-   
+
+0. [**"Multi-dimensional Policy Preferences in the 2015 UK General Election: A Conjoint Analysis"**](https://doi.org/10.1016/j.electstud.2018.07.005) (with Akitaka Matsuo). *Electoral Studies* 55: 89-98, 2018. 
+[ [<i class="fa fa-file-pdf-o" aria-hidden="true"></i> Online Appendix](../files/ES2018SI_conjoint.pdf)] [<a class='cl'>Abstract</a>] [[<i class="fa fa-link" aria-hidden="true"></i> Featured in *The People's Choice* ]](http://www.lse.ac.uk/News/Research-Highlights/Politics/The-peoples-choice)
+   <p class="abstract">
+This research explores voter preferences in the multi-dimensional policy space of the 2015 UK general election, as well as the influence of those preferences on vote choice. In our original pre-election survey, we apply a conjoint experimental design where we use actual party manifestos to examine voters' policy preferences across five main policy domains. This design allows us to both identify voters' sincere preferences, as estimated by their responses to hypothetical policy packages, and to reveal the influence of these preferences on voter support in the actual election. Our analysis reveals a considerable level of congruence between voters' underlying policy preferences and their vote choice in the 2015 election. Our results also speak to the previous literature on policy preferences and vote choice by demonstrating that voters not only weigh the importance of particular policy domains differently, but also have clear preferences regarding specific policy positions in a given domain, which eventually influence their support for a party in the election. </p> <p> </p>
+  
 0. [**"Risky Business? Welfare State Reforms and Government Support in Britain and Denmark"**](https://doi.org/10.1017/S0007123417000382) (with Carsten Jensen, Christoph Arndt, and Georg Wenzelburger). *British Journal of Political Science.* (Forthcoming). [[<i class="fa fa-link" aria-hidden="true"></i> Data](http://dx.doi.org/10.7910/DVN/FDY0ZN)] [ [<i class="fa fa-file-pdf-o" aria-hidden="true"></i> Online Appendix](../files/BJPS2017SI.pdf)] [<a class='cl'>Abstract</a>]
    <p class="abstract">
    Are welfare state reforms electorally dangerous for governments? Political scientists have only recently begun to study this seemingly simple question, and existing work still suffers from two shortcomings. First, it has never tested the reform–vote link with data on actual legislative decisions for enough points in time to allow robust statistical tests. Secondly, it has failed to take into account the many expansionary reforms that have occurred in recent decades. Expansions often happen in the same years as cutbacks. By focusing only on cutbacks, estimates of the effects of reforms on government popularity become biased. This article addresses both shortcomings. The results show that voters punish governments for cutbacks, but also reward them for expansions, making so-called compensation, a viable blame-avoidance strategy. The study also finds that the size of punishments and rewards is roughly the same, suggesting that voters’ well-documented negativity bias does not directly translate into electoral behavior.
@@ -103,9 +102,17 @@ Studies on retrospective voting argue that voters under presidentialism tend to 
 
 * Belief Strength and Updating Party Policy Positions (with Carsten Jensen)
 
+* The Nature and Sources of Voters’ Beliefs about the Left-Right Positions of Political Parties (with Randy Stevenson and Philip Santoso)
+
 [//]: Political interest and political knowlege
 
 * Sources of Confidence in Political Knowledge and Judgment: An experimental study on the role of information accessibility and relevance.
+
+* Paths to False Beliefs: Ignorance, Partisan Motivation, and Conspiracy Mentality (with David J. Hendry and Akitaka Matsuo)
+
+* Decomposing Support for the Welfare State (with Anthony Kevins)
+
+* Understanding the Electoral Consequences of Office-Holding: How Incumbency Advantages Coexist Incumbency Disadvantage Across the World
 
 [//]: [[<i class="fa fa-link" aria-hidden="true"></i> Draft]](../files/EPSA2017Lee.pdf)
 
@@ -115,11 +122,6 @@ Studies on retrospective voting argue that voters under presidentialism tend to 
 
 * Explaining Cross-National Differences in Political Interest: The Role of Partisan and Ideological Cues (with Randy Stevenson)
 
-* The Nature and Sources of Voters’ Beliefs about the Left-Right Positions of Political Parties (with Randy Stevenson and Philip Santoso)
-
-* Paths to False Beliefs: Ignorance, Partisan Motivation, and Conspiracy Mentality (with David J. Hendry and Akitaka Matsuo)
-
-* Decomposing Support for the Welfare State (with Anthony Kevins)
 
 [//]: Electoral participation and vote choice
 
