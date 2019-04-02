@@ -74,7 +74,7 @@ This research explores voter preferences in the multi-dimensional policy space o
 
 0. [**“Evaluating the Cross-National Comparability of Survey Measures of Political Interest Using Anchoring Vignettes”**](http://www.sciencedirect.com/science/article/pii/S0261379415000542) (with Nick Lin and Randy Stevenson). *Electoral Studies* 39: 205-218. 2015. [<a class='cl'>Abstract</a>]
    <p class="abstract">
-Making cross-groups comparisons by using survey instruments has raised substantial scholarly concerns due to the potential risk of incomparability resulting from differential item functioning (DIF). However, not every survey item necessarily suffers from DIF. In this paper, we argue that, unlike many other survey items (e.g., political efficacy), the usual question used to measure political interest is likely to be largely immune to DIF. Our theoretical argument centers on the relative specificity of the item and a corresponding cultural homogeneity (at least in advanced democracies) in what it means to be politically interested or not. Utilizing the anchoring vignettes technique (King et al., 2004; King and Wand, 2007) in our original surveys in the UK, France, and the Netherlands, we demon- strate the size of DIF is small for the standard political interest question.</p> <p> </p>  
+Making cross-groups comparisons by using survey instruments has raised substantial scholarly concerns due to the potential risk of incomparability resulting from differential item functioning (DIF). However, not every survey item necessarily suffers from DIF. In this paper, we argue that, unlike many other survey items (e.g., political efficacy), the usual question used to measure political interest is likely to be largely immune to DIF. Our theoretical argument centers on the relative specificity of the item and a corresponding cultural homogeneity (at least in advanced democracies) in what it means to be politically interested or not. Utilizing the anchoring vignettes technique (King et al., 2004; King and Wand, 2007) in our original surveys in the UK, France, and the Netherlands, we demonstrate the size of DIF is small for the standard political interest question.</p> <p> </p>  
 
 0. [**“Party Responsiveness to the Collective Judgment of the Electorate: The Case of Presidential Popularity in Latin America.”**](http://journals.sagepub.com/doi/full/10.1177/0010414013520523) *Comparative Political Studies* 47(14): 1973-1999. 2014. [ [<i class="fa fa-file-pdf-o" aria-hidden="true"></i> Online Appendix](../files/CPS2014SI.pdf)]  [<a class='cl'>Abstract</a>]
    <p class="abstract">
@@ -112,7 +112,7 @@ Studies on retrospective voting argue that voters under presidentialism tend to 
 
 * Decomposing Support for the Welfare State (with Anthony Kevins)
 
-* Understanding the Electoral Consequences of Office-Holding: How Incumbency Advantages Coexist Incumbency Disadvantage Across the World
+* Understanding the Electoral Consequences of Office-Holding: How Incumbency Advantages and Incumbency Disadvantage Coexist Across the World
 
 [//]: [[<i class="fa fa-link" aria-hidden="true"></i> Draft]](../files/EPSA2017Lee.pdf)
 
