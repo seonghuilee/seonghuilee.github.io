@@ -25,14 +25,12 @@ p.small {
 </p>
 ***
 ## Teaching experience
-* Public Opinion and Political Behaviour (Essex, PG; F2018/S2019)
-
+* Electoral Behaviour (Essex, UG; S2020)
+* Concepts and Measurements in Comparative Political Research (Essex, PG; S2020)
+* Public Opinion and Political Behaviour (Essex, PG; AY2018/2019)
 * Political Motivations, Engagement and Democracy in Comparative Perspective (Aarhus, PG; S2016)
-
 * Apples and Oranges: How to Make Valid Comparisons in Comparative Political Research (Aarhus, PG; F2016)
-
 * Political Institutions: Western Countries, EU, and Foreign Policy (Aarhus, UG; S2016)
-  
 * Introduction to American Politics (Zurich, UG; F2014)
 
 <p class="small">
@@ -40,6 +38,6 @@ p.small {
 </p>
 ***
 ## Pedagogical training
+* Fellow, The Higher Education Academy (HEA), United Kingdom, July 2019.
 * Completion of Teacher Training Program (adjunktpædagogikum), Center for Teaching and Learning, Aarhus University, January 2017.
 * Completion of Teaching Workshop Certificate Program, Rice University Office of Graduate & Post- doctoral Studies, November 2012.
-
