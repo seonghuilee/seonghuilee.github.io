@@ -26,7 +26,7 @@ p.small {
 ***
 ## Teaching experience
 * Electoral Behaviour (Essex, UG; S2020)
-* Concepts and Measurements in Comparative Political Research (Essex, PG; S2020)
+* Concepts and Measurements in Comparative Political Research (Essex, PG; S2020, SU2021)
 * Public Opinion and Political Behaviour (Essex, PG; AY2018/2019)
 * Political Motivations, Engagement and Democracy in Comparative Perspective (Aarhus, PG; S2016)
 * Apples and Oranges: How to Make Valid Comparisons in Comparative Political Research (Aarhus, PG; F2016)
