@@ -4,7 +4,7 @@ title: Home
 ---
 ![alt text](./files/webImageCollage2.png)
 
-Welcome! I am a Lecturer (Assistant Professor) in Comparative Politics in the [Department of Government](https://www.essex.ac.uk/departments/government) at the [University of Essex](https://www.essex.ac.uk/). I study political behaviour, political psychology, and public opinion from a comparative perspective. As my research links macro-level political contexts to micro-level political behavior, my interests touch on various themes in political psychology, public opinion, political institutions, and elections and parties.
+Welcome! I am a Senior Lecturer (Associate Professor) in Comparative Politics in the [Department of Government](https://www.essex.ac.uk/departments/government) at the [University of Essex](https://www.essex.ac.uk/). I study political behaviour, political psychology, and public opinion from a comparative perspective. As my research links macro-level political contexts to micro-level political behavior, my interests touch on various themes in political psychology, public opinion, political institutions, and elections and parties.
 
 My past and on-going research embraces several substantive questions: 1) what motivates people to engage and orient themselves in politics, 2) how citizens process political information, 3) how they respond to policy initiatives and assign responsibility to political actors, and 4) how political contexts and information environments influence these processes and outcomes.
 
