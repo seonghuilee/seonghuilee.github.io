@@ -39,6 +39,16 @@ div .p {
 
 [//]: Some Markdown text with <span style="color:blue">some *blue* text</span>.
 
+0. [**"Anchoring Vignettes as a Diagnostic Tool for Cross-National (In)Comparability of Survey Measures: The Case of Voters' Left-Right Self-placement"**](with Nick Lin). *British Journal of Political Science* (Forthcoming). [<a class='cl'>Abstract</a>]
+    <p class="abstract">
+There are potentially multiple sources that make it difficult to compare the typical survey measure of the left-right self-placement cross-nationally. Among others, we focus on differential item functioning (DIF) due to the different use of response scales when the left-right is framed as an aggregate dimension of policies, and examine whether and to what extent the way ordinary citizens make use of the scale is cross-nationally comparable. Our goal is twofold. First, we assess the cross-national comparability of the left-right self-placement scale using the anchoring vignette method in nine European countries. Second, we propose a measure that quantifies the extent of DIF at the country level. The analyses of our original survey and other benchmark studies suggest that the size of cross-national DIF (CN-DIF) in the citizens’ use of left-right scale is relatively small when the left-right concept is considered in policy terms and the comparison is made among Western European countries.
+    </p> <p> </p>
+
+0. [**"Projection in the Face of Centrism: Voter Inferences About Candidates' Party Affiliation in Low-Information Contexts"**](https://doi.org/10.1111/pops.12851) (with Anthony Kevins). *Political Psychology* 44(2): 319-336, 2023. [<a class='cl'>Abstract</a>]
+    <p class="abstract">
+When are voters more likely to project their own political position onto a candidate for office? We investigate this question by examining the assumed partisanship of a (self-declared) centrist politician, using data from a survey experiment fielded in Canada, the United Kingdom, and the United States. In doing so, we build on the social categorization model as well as recent U.S.-focused political science research on projection and ingroup/ outgroup racial divides—extending our analysis to incorporate racial and class similarities/differences across three countries where these divides likely vary in salience. We thus seek: (1) to contribute to research on the inferences citizens draw in nonpartisan elections and low-information contexts generally and (2) to highlight some potential methodological complications of using partisanship-less candidates in vignette experiments. Results suggest that even in the face of a self-declared centrist, voters from across the political spectrum tended to assume shared partisanship in Canada, the United Kingdom, and the United States. Examining projection by ingroup/outgroup divisions indicated that class appears to shape projection across all three countries, but that the racial divide only mattered in the United States. Finally, we also find evidence of counterprojection toward outgroup members—but once again only in the American context.
+    </p> <p> </p>
+
 0. [**"How Governments Strategically Time Welfare State Reform Legislation: Empirical Evidence From Five European Countries"**](https://doi.org/10.1080/01402382.2019.1668245) (with Georg Wenzelburger, Carsten Jensen, and Christoph Arndt). *West European Politics* 43(6): 1285-1314, 2020. [<a class='cl'>Abstract</a>]
     <p class="abstract">
 Building on studies on the political business cycle, the literature on welfare state retrenchment has argued that governments which cut the welfare state try to avoid blame by implementing painful measures in the beginning of the mandate and expanding benefits as elections approach. In contrast to this linear relationship, this article argues that governments often feel pressured to fulfil (mostly expansionary) campaign promises during the first months in office. Consequently, cutting right away is not what should be expected. Instead, a more nuanced, U-shaped timing trajectory is probable with a period in the beginning characterised by both cuts and fulfilment of expansionary pledges, followed by a period of cutbacks, and finally an expansive phase towards the end of a mandate. This argument is tested on our new original dataset of legislative changes in five European countries – Britain, Denmark, Finland, France and Germany – during the last four decades.
@@ -100,33 +110,29 @@ Studies on retrospective voting argue that voters under presidentialism tend to 
 </p>
 
 ***
-## Work in progress
+## Work in progress (selected)
+
+* What is Left-Right in the Minds of Voters? (with Randy Stevenson and Philip Santoso), Book project, under contract with Cambridge University Press.
 
 * Paths to False Beliefs: Ignorance, Partisan Motivation, and Conspiracy Mentality (with David J. Hendry and Akitaka Matsuo)
 
-* The Nature and Sources of Voters’ Beliefs about the Left-Right Positions of Political Parties (with Randy Stevenson and Philip Santoso)
+* The Misinformation Gender Gap and Its Consequences
 
-* Comparability of Voters' Left-Right Placements Across Countries: An Investigation Using Anchoring Vignettes (with Nick Lin and Randy Stevenson)
+* How Voters Predict Coalition Bargaining Outcomes (with David Fortunato and Randy Stevenson)
 
-* How People Shape Left-Right Perceptions of Their Own and Others: Revisiting the Nature and Drivers of Ideological Self-Placement (with Randy Stevenson and Philip Santoso)
+* Determinants of Election Postponement
 
-* Belief Strength and Updating Party Policy Positions (with Carsten Jensen)
+[//]: * Belief Strength and Updating Party Policy Positions (with Carsten Jensen)
 
 [//]: Political interest and political knowledge
-
-* Sources of Confidence in Political Knowledge and Judgment: An experimental study on the role of information accessibility and relevance.
-
-* Decomposing Support for the Welfare State (with Anthony Kevins)
 
 * Understanding Electoral Consequences of Office-Holding: How Incumbency Advantage and Disadvantage Coexist Across the World
 
 [//]: [[<i class="fa fa-link" aria-hidden="true"></i> Draft]](../files/EPSA2017Lee.pdf)
 
-* The Role of Coping Potential in Enhancing Interest: An Experimental Study of Cognitive Appraisal Theory of Political Interest.
+[//]: * The Role of Coping Potential in Enhancing Interest: An Experimental Study of Cognitive Appraisal Theory of Political Interest.
 
 [//]: [[<i class="fa fa-link" aria-hidden="true"></i> Draft]](../files/Interest2016Lee.pdf)
-
-* Explaining Cross-National Differences in Political Interest: The Role of Partisan and Ideological Cues (with Randy Stevenson)
 
 
 [//]: Electoral participation and vote choice

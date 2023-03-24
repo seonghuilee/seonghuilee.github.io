@@ -24,10 +24,11 @@ p.small {
 <br>
 </p>
 ***
-## Teaching experience
+## Teaching 
+* Public Opinion and Political Behaviour (Essex, PG; FY2018/2019, 2021/2022, 2022/2023, 2023/2024)
+* Measuring Public Opinion (Essex, UG; F2023)
+* Concepts and Measurements in Comparative Political Research (Essex, PG; S2020, SU2021, S2022, S2023)
 * Electoral Behaviour (Essex, UG; S2020)
-* Concepts and Measurements in Comparative Political Research (Essex, PG; S2020, SU2021, S2022)
-* Public Opinion and Political Behaviour (Essex, PG; FY2018/2019, FY2021/2022)
 * Political Motivations, Engagement and Democracy in Comparative Perspective (Aarhus, PG; S2016)
 * Apples and Oranges: How to Make Valid Comparisons in Comparative Political Research (Aarhus, PG; F2016)
 * Political Institutions: Western Countries, EU, and Foreign Policy (Aarhus, UG; S2016)
