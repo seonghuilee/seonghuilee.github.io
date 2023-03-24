@@ -9,7 +9,17 @@ disqus:
   comments: false
   disqus_shortname: 'https-lenpaul-github-io-lagrange'
 
-google-ID: 'UA-44147916-1'
+# google-ID: 'UA-44147916-1'
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-GN2XT2X5PW"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-GN2XT2X5PW');
+</script>
+
 
 menu:
 - {name: 'Home', url: '..'}
