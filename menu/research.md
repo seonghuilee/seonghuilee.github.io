@@ -39,7 +39,7 @@ div .p {
 
 [//]: Some Markdown text with <span style="color:blue">some *blue* text</span>.
 
-0. [**"Anchoring Vignettes as a Diagnostic Tool for Cross-National (In)Comparability of Survey Measures: The Case of Voters' Left-Right Self-placement"**](../files/LRvignAccepted.pdf)(with Nick Lin). *British Journal of Political Science* (Forthcoming). [<a class='cl'>Abstract</a>]
+0. [**"Anchoring Vignettes as a Diagnostic Tool for Cross-National (In)Comparability of Survey Measures: The Case of Voters' Left-Right Self-placement"**](../files/LRvignAccepted_Final.pdf)(with Nick Lin). *British Journal of Political Science* (Forthcoming). [<a class='cl'>Abstract</a>]
     <p class="abstract">
 There are potentially multiple sources that make it difficult to compare the typical survey measure of the left-right self-placement cross-nationally. Among others, we focus on differential item functioning (DIF) due to the different use of response scales when the left-right is framed as an aggregate dimension of policies, and examine whether and to what extent the way ordinary citizens make use of the scale is cross-nationally comparable. Our goal is twofold. First, we assess the cross-national comparability of the left-right self-placement scale using the anchoring vignette method in nine European countries. Second, we propose a measure that quantifies the extent of DIF at the country level. The analyses of our original survey and other benchmark studies suggest that the size of cross-national DIF (CN-DIF) in the citizens’ use of left-right scale is relatively small when the left-right concept is considered in policy terms and the comparison is made among Western European countries.
     </p> <p> </p>
