@@ -39,7 +39,17 @@ div .p {
 
 [//]: Some Markdown text with <span style="color:blue">some *blue* text</span>.
 
-0. [**"Anchoring Vignettes as a Diagnostic Tool for Cross-National (In)Comparability of Survey Measures: The Case of Voters' Left-Right Self-placement"**](../files/LRvignAccepted_Final.pdf)(with Nick Lin). *British Journal of Political Science* (Forthcoming). [<a class='cl'>Abstract</a>]
+0. [**"The Distance Between Us: The Role of Ideological Proximity in Shaping Perceptions of Inter-Partisan Relationships"**](../files/jepopLeeAcceptedVer.pdf). *Journal of Elections, Public Opinion and Parties* (Forthcoming). [<a class='cl'>Abstract</a>]
+    <p class="abstract">
+Escalating hostility between partisans threatens democratic governance and social cohesion by eroding trust and fuelling discriminatory behaviour towards opposing groups.  This study delves into how people perceive the relations between different partisan groups and why certain pairs of partisans are viewed as friendlier or more hostile toward one another. Drawing on similarity-attraction theory in social psychology and affective polarization research, I argue that citizens perceive the relationship as more friendly between individuals who support ideologically similar parties. The claim is tested and empirically supported by using a novel survey item, which asks about the likelihood of two partisans becoming good friends, in three multiparty democracies: Canada, Germany, and the UK. The findings suggest that parties’ ideological proximity not only shapes citizens’ perceptions of parties themselves but also influences their views of fellow citizens across party lines. By demonstrating that people consider party proximity and ideological alignment when gauging inter-partisan relations, the study sheds light on how ideological and affective dimensions intertwine within these relationships in multiparty democracies.
+    </p> <p> </p>
+    
+0. [**"When Elections Wait: A Cross-National Analysis of Election Postponement During the COVID-19 Pandemic"**](https://doi.org/10.1177/10659129241290430). *Political Research Quarterly* (Forthcoming). [ [<i class="fa fa-file-pdf-o" aria-hidden="true"></i> Online Appendix](../files/prqElecPostponeOA.pdf)] [<a class='cl'>Abstract</a>]
+    <p class="abstract">
+During the first 2 years of the coronavirus pandemic, over 150 countries had scheduled elections, but approximately half of them had to be postponed due to the pandemic. Why were some elections postponed while others were not? Despite its impact on the election calendar and democratic accountability, election postponement has received surprisingly little scholarly attention. In this study, I investigate the conditions under which elections are more likely to be delayed. Utilizing a comprehensive cross-national dataset encompassing election schedules worldwide, COVID-19-related factors, and other societal and institutional characteristics, I provide the first systematic examination of election postponement during the first 2 years of the pandemic. The empirical analysis reveals that national elections are less likely to be postponed compared to second-order elections such as subnational and special elections. Furthermore, it demonstrates that the momentum of the pandemic plays a significant role, and effective pandemic management and robust healthcare infrastructures decrease the likelihood of election postponement. On the other hand, institutional constraints have little impact. By shedding light on the factors driving election postponement, this study enhances our understanding of how crises can shape democratic processes.
+    </p> <p> </p>
+    
+0. [**"Anchoring Vignettes as a Diagnostic Tool for Cross-National (In)Comparability of Survey Measures: The Case of Voters' Left-Right Self-placement"**](https://doi.org/10.1017/S0007123423000236)(with Nick Lin). *British Journal of Political Science* 54(2): 492-502. [<a class='cl'>Abstract</a>]
     <p class="abstract">
 There are potentially multiple sources that make it difficult to compare the typical survey measure of the left-right self-placement cross-nationally. Among others, we focus on differential item functioning (DIF) due to the different use of response scales when the left-right is framed as an aggregate dimension of policies, and examine whether and to what extent the way ordinary citizens make use of the scale is cross-nationally comparable. Our goal is twofold. First, we assess the cross-national comparability of the left-right self-placement scale using the anchoring vignette method in nine European countries. Second, we propose a measure that quantifies the extent of DIF at the country level. The analyses of our original survey and other benchmark studies suggest that the size of cross-national DIF (CN-DIF) in the citizens’ use of left-right scale is relatively small when the left-right concept is considered in policy terms and the comparison is made among Western European countries.
     </p> <p> </p>
@@ -120,7 +130,6 @@ Studies on retrospective voting argue that voters under presidentialism tend to 
 
 * How Voters Predict Coalition Bargaining Outcomes (with David Fortunato and Randy Stevenson)
 
-* Determinants of Election Postponement
 
 [//]: * Belief Strength and Updating Party Policy Positions (with Carsten Jensen)
 
