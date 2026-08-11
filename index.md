@@ -10,7 +10,7 @@ I am also the co-author of [*Heuristic Inference and the Left-Right: An Experime
 
 <p align="center">
 <a href="https://doi.org/10.1017/9781009430807">
-  <img src="files/heuBookFront.jpg" width="25%">
+  <img src="files/heuBookFront.jpg" width="30%">
 </a>
 <p align="center" style="margin-top: -20px;"> <small> <b> Open Access </b> - Click the image! </small> </p>
 </p>
