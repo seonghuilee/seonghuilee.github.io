@@ -41,10 +41,11 @@ div .p {
 
 ### Books
 
+<div>
 [*Heuristic Inference and the Left-Right: An Experimental Analysis of How Voters Form Their Left-Right Images of Parties*](https://doi.org/10.1017/9781009430807) (with Lie Philip Santoso and Randolph Stevenson). Elements in Experimental Political Science. Cambridge: Cambridge University Press, 2026. [<a class='cl'>Abstract</a>]
    <p class="abstract">
    How do voters form left–right images of political parties? This Element applies the theoretical framework of ecologically rational heuristic inference to synthesize insights from the extensive literature on the meaning of left and right in politics. It proposes several hypotheses about cues that voters with varying levels of political sophistication use to infer parties' left–right positions. These expectations are tested through seven conjoint and factorial survey experiments in Germany, Denmark, Canada, and the UK. Findings show that many voters develop sensible left–right perceptions of parties by relying on small sets of highly predictive cues. However, voters differ in how they interpret these cues. Less politically sophisticated voters tend to infer party positions mainly from partisan signals, whereas more sophisticated voters rely on a broader range of indicators, including party policies, ideological values, and social group support.
-   </p> <p> </p>
+   </p> </div>
 
 
 ### Journal Articles
