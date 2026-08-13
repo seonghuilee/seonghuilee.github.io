@@ -138,20 +138,25 @@ How do voters form left–right images of political parties? This Element applie
 ***
 ## Work in progress (selected)
 
-* What is Left-Right in the Minds of Voters? (with Randy Stevenson and Philip Santoso), Book project, under contract with Cambridge University Press.
-
-* Paths to False Beliefs: Ignorance, Partisan Motivation, and Conspiracy Mentality (with David J. Hendry and Akitaka Matsuo)
+* Gendered Affective Polarization: How Political and Social Contexts Shape Gender Differences in Partisan Hostility (with Nick Lin)
 
 * The Misinformation Gender Gap and Its Consequences
 
-* How Voters Predict Coalition Bargaining Outcomes (with David Fortunato and Randy Stevenson)
+* Cooperating Parties, Befriending Partisans
 
+* The Right Women and Party Brands (with Florence So)
+
+[//]: * What is Left-Right in the Minds of Voters? (with Randy Stevenson and Philip Santoso), Book project, under contract with Cambridge University Press.
+
+[//]: * Paths to False Beliefs: Ignorance, Partisan Motivation, and Conspiracy Mentality (with David J. Hendry and Akitaka Matsuo)
+
+[//]: * How Voters Predict Coalition Bargaining Outcomes (with David Fortunato and Randy Stevenson)
 
 [//]: * Belief Strength and Updating Party Policy Positions (with Carsten Jensen)
 
 [//]: Political interest and political knowledge
 
-* Understanding Electoral Consequences of Office-Holding: How Incumbency Advantage and Disadvantage Coexist Across the World
+[//]: * Understanding Electoral Consequences of Office-Holding: How Incumbency Advantage and Disadvantage Coexist Across the World
 
 [//]: [[<i class="fa fa-link" aria-hidden="true"></i> Draft]](../files/EPSA2017Lee.pdf)
 

@@ -25,7 +25,8 @@ p.small {
 </p>
 ***
 ## Teaching 
-* Public Opinion and Political Behaviour (Essex, PG; FY2018/2019, 2021/2022, 2022/2023, 2023/2024)
+* Public Opinion and Political Behaviour (Essex, PG; FY2018/19, 2021/22, 2022/23, 2023/24, 2025/26)
+* Fundamentals of Social Data Science (Essex, UG; F2025)
 * Measuring Public Opinion (Essex, UG; F2023)
 * Concepts and Measurements in Comparative Political Research (Essex, PG; S2020, SU2021, S2022, S2023)
 * Electoral Behaviour (Essex, UG; S2020)
